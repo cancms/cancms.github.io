@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Experiences | CC个人网站制作</title>
+    <link>https://cancms.github.io/publication/</link>
+      <atom:link href="https://cancms.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Experiences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://cancms.github.io/img/cc-logo.png</url>
+      <title>Research Experiences</title>
+      <link>https://cancms.github.io/publication/</link>
+    </image>
+    
+  </channel>
+</rss>
